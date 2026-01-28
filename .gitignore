@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Output / results
+output/
+results/
+
+# Data (optional – include only if small & public)
+data/*.wav
+data/*.mp3
+data/*.mp4
+
+# Models / embeddings
+*.bin
+*.gguf
+*.pkl
+*.faiss
+
+# Env
+venv/
+env/
+
+# OS
+Thumbs.db
+.DS_Store
