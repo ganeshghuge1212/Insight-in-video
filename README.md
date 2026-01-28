@@ -38,4 +38,4 @@ This system automatically processes YouTube videos and transforms them into conc
 ## How to Run
 ```bash
 pip install -r requirements.txt
-streamlit run app12.py
+streamlit run app.py
