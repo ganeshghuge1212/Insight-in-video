@@ -1,4 +1,4 @@
-# GenAI Video Insight Engine
+# Insight-in-video
 
 An AI-powered system that converts YouTube videos into structured knowledge by generating transcriptions, summaries, key points, mind maps, and interactive Q&A. The project helps users learn faster by extracting essential information without watching entire videos.
 
